@@ -1,0 +1,8 @@
+# Name of the mod
+NAME=UrbanCraft-KnownPlayers
+
+# Version of the mod
+VERSION=0.0.1
+
+# Version of Minecraft # This will be overwritten by MCP's config value.
+MC=1.4.6
