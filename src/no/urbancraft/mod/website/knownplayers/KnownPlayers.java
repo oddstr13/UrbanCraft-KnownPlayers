@@ -21,7 +21,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 @NetworkMod(clientSideRequired = false, serverSideRequired = false)
 public class KnownPlayers {
 	public static final String ID = "UrbanCraft KnownPlayers";
-	public static final String VERSION = "0.0.1";
+	public static final String VERSION = "@VERSION@";
 
 	public String post_url;
 	public String identifier;
